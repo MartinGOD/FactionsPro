@@ -6,3 +6,4 @@
 - [ ] Better API for other devs to get faction name and rank
 - [ ] Simple permission nodes within factions
 - [X] Add home commands "home" "sethome" "unsethome"
+- [ ] Improve overall style of code (variables and spacing and schtuff)
